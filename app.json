@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "name": "Scapade",
+    "version": "0.1.0",
+    "slug": "your-app-slug",
+    "ios": {
+      "bundleIdentifier": "com.scapade.scapade"
+    },
+    "android": {
+      "package": "com.scapade.scapade"
+    }
+  },
+  "facebookScheme": "fb1567235063342342",
+  "facebookAppId": "1567235063342342",
+  "facebookDisplayName": "scapade"
+}
